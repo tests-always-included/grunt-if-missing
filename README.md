@@ -1,7 +1,7 @@
 grunt-if-missing
 ================
 
-Conditionally run a task if its dest does not exist.
+Conditionally run a task if any its destination files do not exist.
 
 
 Why?
