@@ -23,7 +23,7 @@ describe('if-missing', function () {
         };
 
         // Load the module
-        module = require('./if-missing');
+        module = require('../tasks/if-missing');
         module(grunt);
     });
 

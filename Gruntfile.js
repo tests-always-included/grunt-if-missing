@@ -6,7 +6,8 @@ module.exports = function (grunt) {
         jasmine_node: {
             unit: {
                 src: [
-                    'tasks/'
+                    'tasks/',
+                    'tests/'
                 ]
             }
         },
@@ -14,6 +15,7 @@ module.exports = function (grunt) {
             all: {
                 src: [
                     'tasks/**/*.js',
+                    'tests/**/*.js',
                     'Gruntfile.js',
                     'package.json'
                 ],
