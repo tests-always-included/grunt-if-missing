@@ -1,0 +1,24 @@
+{
+    "name": "grunt-if-missing",
+    "description": "Conditionally run Grunt tasks if the destination is missing",
+    "version": "0.0.0",
+    "homepage": "https://github.com/tests-always-included/grunt-if-missing",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tests-always-included/grunt-if-missing.git"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-cli": "*",
+        "grunt-jasmine-node": "*",
+        "grunt-jslint": "*",
+        "load-grunt-tasks": "*"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4.1"
+    }
+}
