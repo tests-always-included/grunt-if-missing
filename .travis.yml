@@ -1,3 +1,9 @@
 language: node_js
 node_js:
     - 0.10
+notifications:
+    irc:
+        channels:
+            - "chat.freenode.net#tests-always-included"
+        skip_join: true
+        use_notice: true
