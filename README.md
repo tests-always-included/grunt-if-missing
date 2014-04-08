@@ -3,6 +3,8 @@ grunt-if-missing
 
 Conditionally run a task if any its destination files do not exist.
 
+[![Build Status](https://travis-ci.org/tests-always-included/grunt-if-missing.svg?branch=master)](https://travis-ci.org/tests-always-included/grunt-if-missing)
+
 
 Why?
 ----
