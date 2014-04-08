@@ -9,6 +9,8 @@ Why?
 
 I used [grunt-curl] to download an external dependency.  That task would get executed often, but the file did not need to get downloaded again if it already existed.  With this plugin I am able to execute a task if it is currently missing its "dest" file.
 
+Another project uses a git submodule as a dependency and needs to build it once before using it.  This plugin is able to determine if a file exists and will use [grunt-run] to start a build that will generate the necessary files.  Once they exist they won't need to get rebuilt.
+
 
 Usage
 -----
@@ -62,5 +64,6 @@ This software is licensed under an [MIT license with an additional non-advertisi
 
 grunt: http://gruntjs.com/
 grunt-curl: https://github.com/twolfson/grunt-curl
+grunt-run: https://github.com/spenceralger/grunt-run
 load-grunt-tasks: https://github.com/sindresorhus/load-grunt-tasks
 newer: https://github.com/tschaub/grunt-newer
