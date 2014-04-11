@@ -55,7 +55,9 @@ This task is only able to be used with other tasks that have `dest` defined or s
 Development
 -----------
 
-If you want to work on this library, you need to check out the repository and run `npm install` to get the dependencies.  Make sure you write tests that cover changes and run them with `grunt test`.
+If you want to work on this library, you need to check out the repository and run `npm install` to get the dependencies.
+
+Tests are *always* included.  Make sure tests cover your changes.  To run the current tests, just use `npm test` or `grunt test` (they will run the same test suite).  Make sure
 
 
 License
