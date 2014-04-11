@@ -66,8 +66,8 @@ License
 This software is licensed under an [MIT license with an additional non-advertising clause](LICENSE.md).
 
 
-grunt: http://gruntjs.com/
-grunt-curl: https://github.com/twolfson/grunt-curl
-grunt-run: https://github.com/spenceralger/grunt-run
-load-grunt-tasks: https://github.com/sindresorhus/load-grunt-tasks
-newer: https://github.com/tschaub/grunt-newer
+[grunt]: http://gruntjs.com/
+[grunt-curl]: https://github.com/twolfson/grunt-curl
+[grunt-run]: https://github.com/spenceralger/grunt-run
+[load-grunt-tasks]: https://github.com/sindresorhus/load-grunt-tasks
+[newer]: https://github.com/tschaub/grunt-newer
