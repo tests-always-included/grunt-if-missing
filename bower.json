@@ -10,25 +10,17 @@
     "contributors": [
         "Tyler Akins <fidian@rumkin.com> (http://rumkin.com)"
     ],
+    "main": "tasks/if-missing.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/tests-always-included/grunt-if-missing.git"
     },
+    "files": [
+        "tasks/if-missing.js"
+    ],
     "keywords": [
         "gruntplugin",
         "if-missing"
     ],
-    "devDependencies": {
-        "grunt": "~0.4.1",
-        "grunt-cli": "*",
-        "grunt-jasmine-node": "*",
-        "grunt-jslint": "*"
-    },
-    "peerDependencies": {
-        "grunt": "~0.4.1"
-    },
-    "license": "MIT",
-    "scripts": {
-        "test": "grunt test"
-    }
+    "license": "MIT"
 }

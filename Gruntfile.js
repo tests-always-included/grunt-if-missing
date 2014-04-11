@@ -1,7 +1,8 @@
 module.exports = function (grunt) {
     'use strict';
 
-    require('load-grunt-tasks')(grunt);
+    grunt.loadNpmTasks('grunt-jasmine-node');
+    grunt.loadNpmTasks('grunt-jslint');
     grunt.initConfig({
         jasmine_node: {
             unit: {
