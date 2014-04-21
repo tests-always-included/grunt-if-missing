@@ -57,7 +57,7 @@ Development
 
 If you want to work on this library, you need to check out the repository and run `npm install` to get the dependencies.
 
-Tests are *always* included.  Make sure tests cover your changes.  To run the current tests, just use `npm test` or `grunt test` (they will run the same test suite).  Make sure
+Tests are *always* included.  Make sure tests cover your changes.  To run the current tests, just use `npm test` or `grunt test` (they will run the same test suite).
 
 
 License
