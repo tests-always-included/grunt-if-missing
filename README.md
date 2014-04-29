@@ -3,7 +3,7 @@ grunt-if-missing
 
 Conditionally run a task if any of its destination files do not exist.
 
-[![Build Status](https://travis-ci.org/tests-always-included/grunt-if-missing.svg?branch=master)](https://travis-ci.org/tests-always-included/grunt-if-missing)
+[![Build Status](https://travis-ci.org/tests-always-included/grunt-if-missing.svg?branch=master)](https://travis-ci.org/tests-always-included/grunt-if-missing) [![NPM](https://nodei.co/npm/grunt-if-missing.png?downloads=true&stars=true)](https://npmjs.org/package/grunt-if-missing)
 
 
 Why?
