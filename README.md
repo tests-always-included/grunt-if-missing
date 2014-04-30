@@ -3,7 +3,10 @@ grunt-if-missing
 
 Conditionally run a task if any of its destination files do not exist.
 
-[![Build Status](https://travis-ci.org/tests-always-included/grunt-if-missing.svg?branch=master)](https://travis-ci.org/tests-always-included/grunt-if-missing) [![NPM](https://nodei.co/npm/grunt-if-missing.png?downloads=true&stars=true)](https://npmjs.org/package/grunt-if-missing)
+[![NPM][npm-image]][NPM]
+[![Build Status][travis-image]][Travis CI]
+[![Dependencies][dependencies-image]][Dependencies]
+[![Dev Dependencies][devdependencies-image]][Dev Dependencies]
 
 
 Why?
@@ -66,8 +69,16 @@ License
 This software is licensed under an [MIT license with an additional non-advertising clause](LICENSE.md).
 
 
-[grunt]: http://gruntjs.com/
+[Dependencies]: https://david-dm.org/tests-always-included/grunt-if-missing
+[dependencies-image]: https://david-dm.org/tests-always-included/grunt-if-missing.png
+[Dev Dependencies]: https://david-dm.org/tests-always-included/grunt-if-missing#info=devDependencies
+[devdependencies-image]: https://david-dm.org/tests-always-included/grunt-if-missing/dev-status.png
 [grunt-curl]: https://github.com/twolfson/grunt-curl
+[grunt]: http://gruntjs.com/
 [grunt-run]: https://github.com/spenceralger/grunt-run
 [load-grunt-tasks]: https://github.com/sindresorhus/load-grunt-tasks
 [newer]: https://github.com/tschaub/grunt-newer
+[NPM]: https://npmjs.org/package/grunt-if-missing
+[npm-image]: https://nodei.co/npm/grunt-if-missing.png?downloads=true&stars=true
+[Travis CI]: http://travis-ci.org/tests-always-included/grunt-if-missing
+[travis-image]: https://secure.travis-ci.org/tests-always-included/grunt-if-missing.png
