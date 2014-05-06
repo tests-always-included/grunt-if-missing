@@ -80,5 +80,5 @@ This software is licensed under an [MIT license with an additional non-advertisi
 [newer]: https://github.com/tschaub/grunt-newer
 [NPM]: https://npmjs.org/package/grunt-if-missing
 [npm-image]: https://nodei.co/npm/grunt-if-missing.png?downloads=true&stars=true
-[Travis CI]: http://travis-ci.org/tests-always-included/grunt-if-missing
+[Travis CI]: http://travis-ci.org/tests-always-included/grunt-if-missing?branch=master
 [travis-image]: https://secure.travis-ci.org/tests-always-included/grunt-if-missing.png
