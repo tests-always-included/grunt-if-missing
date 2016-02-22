@@ -1,6 +1,6 @@
 {
     "name": "grunt-if-missing",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Conditionally run Grunt tasks if the destination is missing.",
     "author": "Tyler Akins <fidian@rumkin.com>",
     "homepage": "https://github.com/tests-always-included/grunt-if-missing",
